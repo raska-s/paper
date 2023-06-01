@@ -21,5 +21,4 @@ away from the source region.
 I really like bread though
 
 #Methodology
-Step one. We must buy flour. 
-Smaller particles of flour were measured using a Scanning Mobility Particle Sizer (SMPS)
+Step one. We must buy flour.

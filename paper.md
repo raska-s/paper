@@ -5,4 +5,4 @@ Aging of burning aerosols over West Africa
 Raska
 
 #Introduction
-We present aircraft measurements of BBOA over West Africa
+We present aircraft measurements of BBOA over West Africa. But not South Africa. 
